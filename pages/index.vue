@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        edu-github-traingin
+        Welcome
       </h1>
       <div class="links">
         <a
