@@ -37,7 +37,7 @@ html {
   border: 1px solid #3b8070;
   color: #3b8070;
   text-decoration: none;
-  padding: 10px 30px;
+  padding: 15px 30px;
 }
 
 .button--green:hover {

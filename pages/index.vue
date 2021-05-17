@@ -23,6 +23,7 @@
           GitHub Ichikawa Original！
           Ichikawa issue!
           !!
+          Ichikawa testだよ
         </a>
       </div>
     </div>
