@@ -21,7 +21,8 @@
           class="button--grey"
         >
           GitHub Ichikawa Original！
-          Ichikawa issue.
+          Ichikawa issue!
+          !!
         </a>
       </div>
     </div>
