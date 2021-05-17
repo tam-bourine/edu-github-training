@@ -20,7 +20,7 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub Ichikawa Original
+          GitHub Ichikawa Original！
         </a>
       </div>
     </div>
