@@ -1,6 +1,8 @@
 <template>
   <div class="container">
     <div>
+      <!-- テスト -->
+      <!-- 紐付け -->
       <Logo />
       <h1 class="title">
         edu-github-traingin
